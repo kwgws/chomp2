@@ -1,2 +1,8 @@
-# ia-compmag-collect
-Python script to collect and process computer periodicals from the Internet Archive
+ia-compmag-collect
+
+by Sean Gilleran
+Last updated November 28, 2021
+
+* * *
+
+A set of Python notebooks to collect and process computer periodicals from the Internet Archive.
