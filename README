@@ -6,3 +6,9 @@ Last updated November 28, 2021
 * * *
 
 A set of Python notebooks to collect and process computer periodicals from the Internet Archive.
+
+NOTES:
+- At the moment it doesn't seem to be worth the trouble to filter by language since most of those tags are incorrect.
+
+TODO:
+- More options for date filtering.
