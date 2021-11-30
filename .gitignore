@@ -1,6 +1,6 @@
 *
 
-./*.ipynb_checkpoints
-./.gitignore
-./LICENSE
-./README
+!*.ipynb
+!.gitignore
+!LICENSE
+!README
