@@ -1,4 +1,6 @@
-**/
-.ipynb_checkpoints
-*.txt
-*.tmp
+*
+
+./*.ipynb_checkpoints
+./.gitignore
+./LICENSE
+./README
